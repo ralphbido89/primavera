@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 
 /* # fonts  */
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap');
@@ -902,7 +901,6 @@ button{
 .footer-social a:hover{
   background-color: var(--main-color);
   color: var(--text-black);
-=======
 
 /* # fonts  */
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap');
@@ -1806,5 +1804,4 @@ button{
 .footer-social a:hover{
   background-color: var(--main-color);
   color: var(--text-black);
->>>>>>> c3d462e975f16ce7949c6056ae6d5a9e1eb0501e
 }
