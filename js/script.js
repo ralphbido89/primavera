@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 
 
 window.addEventListener("load", () => {
@@ -61,7 +60,6 @@ scheduleTabs();
 
 
 // Splitting
-=======
 
 
 window.addEventListener("load", () => {
@@ -124,5 +122,4 @@ scheduleTabs();
 
 
 // Splitting
->>>>>>> c3d462e975f16ce7949c6056ae6d5a9e1eb0501e
 Splitting();
